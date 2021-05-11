@@ -1,0 +1,99 @@
+.top{
+    background-color: whitesmoke;
+    padding: 5px;
+    
+}
+#image{
+    position: relative;
+    left: 750px;
+}
+h1{
+    position: relative;
+    top: 250px;
+    font-family: 'Hachi Maru Pop', cursive;
+    
+}
+nav{
+    background-color: #f7d9d9;
+    padding: 20px;
+}
+#b,#c,#d,#e{
+    padding: 5px;
+}
+.features{
+    background-color: #e4f9f5;
+}
+.testimonials{
+    background-color: #ffaaa7;
+    padding: 200px;
+    text-align: center;
+
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+}
+.connector{
+    text-align: center;
+    padding: 20px;
+    background-color: #4a503d;
+    color: whitesmoke;
+}
+.card{
+    background-color: #dddddd;
+    
+}
+.connector-2{
+    background-color:#4a503d ;
+    text-align: center;
+    color: whitesmoke;
+    padding: 20px;
+}
+.downloads{
+    background-color: #ffaaa7;
+    padding: 50px;
+    text-align: center;
+}
+.b-1{
+    padding: 10px;
+}
+.card-deck{
+    padding: 10px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+.contacts{
+    background-color: whitesmoke;
+    padding: 50px;
+    text-align: center;
+    
+}
+#x,#y,#z{
+    padding: 5px;
+    size: 1.5rem;
+}
+.footer{
+    text-align: center;
+    background-color: whitesmoke;
+    padding-bottom: 20px;
+}
+.d-text{
+    font-size: 3rem;
+    padding:10px;
+    font-family: 'Texturina', serif;
+
+}
+.head-font{
+    font-size: 4.0rem;
+    padding: 10px;
+}
+.heading{
+    position: relative;
+    bottom: 250px;
+    left: 100px;
+    padding-top: 20px;
+}
+#mountain{
+    position: relative;
+    left: 1200px;
+    top: 100px;
+}
